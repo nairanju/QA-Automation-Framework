@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QA-Automation-Framework.iml" filepath="$PROJECT_DIR$/.idea/QA-Automation-Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" />
+      <module fileurl="file://D:/Verana/Automation/qa_automation-qa_automation/.idea/qa_automation-qa_automation.iml" filepath="D:/Verana/Automation/qa_automation-qa_automation/.idea/qa_automation-qa_automation.iml" />
+    </modules>
+  </component>
+</project>

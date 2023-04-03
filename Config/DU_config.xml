@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<xmldata>
+   <gnb_CU id="AWS_CU_SETUP3">
+      <mgmt_ip>20.200.10.45</mgmt_ip>
+      <username>centos</username>
+      <password>pem</password>
+      <sudo_password />
+      <UUID>388a99ed-`9486-4a46-aeb6-06eaf6c47675</UUID>
+      <Instance_Name>nightly-x86-machine-du-mt-instance-0</Instance_Name>
+      <Instance_ID>i-021b8a300848769c9</Instance_ID>
+      <GNBID />
+      <console_ip>20.200.10.45</console_ip>
+      <Process name="gnb_cu_l3"/>
+      <Process name="gnb_cu_oam"/>
+      <Process name="gnb_cu_pdcp"/>
+      <Process name="testTool"/>
+   </gnb_CU>
+      <gnb_DU id="AWS_DU_SETUP3">
+      <mgmt_ip>20.200.10.173</mgmt_ip>
+      <username>ubuntu</username>
+      <password>pem</password>
+      <sudo_password />
+      <UUID>99240507-ee6c-4709-bcf6-ca0fb7308187</UUID>
+      <Instance_Name>qa-arm-machine-1hop-setup-2-instance-0</Instance_Name>
+      <Instance_ID>i-039e8675a2a03e72f</Instance_ID>
+      <GNBID />
+      <console_ip>20.200.10.173</console_ip>
+      <console_username>admin</console_username>
+      <Process name="duoam"/>
+      <Process name="dumgr"/>
+      <Process name="nrmobilityd"/>
+      <Process name="L1Stub"/>
+      <Process name="ue_rrc"/>
+
+   </gnb_DU>
+</xmldata>
